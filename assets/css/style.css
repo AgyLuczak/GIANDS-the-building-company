@@ -1,16 +1,22 @@
-.navbar {
-    background-image: blue;
+.bg-body-tertiary {
+  height: 100px;
 }
 
+
+
 .carousel {
-    width:640px;
+    width: 1500px;;
     height:360px;
   }
+
 
 .carousel-inner {
     position: relative;
     width: 100%;
     overflow: hidden;
-    padding-bottom: 50%;
+   padding-bottom: 25%;
 }
+
+
+
 
