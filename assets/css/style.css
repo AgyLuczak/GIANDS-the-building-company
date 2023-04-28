@@ -1,9 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Philosofer:100,200,300,400,500,600,700|Karla-Bold:100,200,300,400,500,600,700|Spectral-Light: 100,200,300,400,500,600,700');
 
-
+body {
+  padding-bottom: 300px;
+}
 
 
 /*--------------------------------Navbar---------------*/
+
 
 .bg-body-tertiary {
   height: 100px;
@@ -53,6 +56,11 @@
 }
 
 /*--------------------------------Carousel---------------*/
+
+.carousel-container {
+  width: 1125px;
+  height: 1500px;
+}
 
 .carousel-inner > .item > img {
   margin: 0 auto;
