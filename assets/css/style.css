@@ -6,6 +6,7 @@ html {
 
 body {overflow-x: hidden;
   padding-bottom: 300px;
+  background-image: url(/assets/css/images/istockphoto-1414219625-1024x1024.jpg);
 }
 
 
@@ -87,6 +88,15 @@ body {overflow-x: hidden;
 .img-fluid {
   max-width: 100%;
   height: 50vh;
+}
+
+
+.about-us {
+  background-color: rgba(0, 0, 0, 0.125);
+}
+
+.customer-feedback {
+  background-color: rgba(0, 0, 0, 0.125);
 }
 
 
