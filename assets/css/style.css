@@ -6,7 +6,7 @@ html {
 
 body {overflow-x: hidden;
   padding-bottom: 300px;
-  background-image: url(/assets/css/images/istockphoto-1414219625-1024x1024.jpg);
+  background-image: url(/assets/css/images/brickwall.jpg);
 }
 
 
@@ -15,7 +15,7 @@ body {overflow-x: hidden;
 
 .bg-body-tertiary {
   height: 100px;
-  background-color: #dee2e6 !important;
+ background-color: #dee2e6 !important;
 }
 
 
@@ -63,9 +63,9 @@ body {overflow-x: hidden;
 /*--------------------------------Carousel---------------*/
 
 .carousel-container {
-  width: 800px;
+  width: 560px;
   height: 500px;
-  background-color: #5e6f81;
+  background-color: rgba(13, 110, 253, 0.25);
   padding-top: 50px;
 }
 
@@ -105,6 +105,9 @@ p {
 }
 /*------------------------Footer------*/
 
+.fixed-bottom {
+  background-color: #dee2e6:
+}
 .text-dark {
   --bs-text-opacity: 1;
   color: black !important;
