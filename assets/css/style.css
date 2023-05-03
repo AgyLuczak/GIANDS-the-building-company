@@ -4,9 +4,10 @@ html {
   overflow-x: hidden;
 }
 
-body {overflow-x: hidden;
+body {
+  overflow-x: hidden;
   padding-bottom: 300px;
-  background-image: url(/assets/css/images/brickwall.jpg);
+  background-image: url(../assets/images/brickwall.jpg);
 }
 
 
@@ -15,7 +16,7 @@ body {overflow-x: hidden;
 
 .bg-body-tertiary {
   height: 100px;
- background-color: #dee2e6 !important;
+  background-color: #dee2e6 !important;
 }
 
 
@@ -23,7 +24,7 @@ body {overflow-x: hidden;
   padding-top: var(--bs-navbar-brand-padding-y);
   padding-bottom: var(--bs-navbar-brand-padding-y);
   margin-right: var(--bs-navbar-brand-margin-end);
-  font-size: xx-large;
+  font-size: x-large;
   font-family: Oxygen;
   font-weight: bold;
   color: black;
@@ -32,9 +33,9 @@ body {overflow-x: hidden;
 }
 
 .navbar-nav {
-   font-size: x-large;
-   font-weight: bold;
-   font-family: Karla-Bold;
+  font-size: x-large;
+  font-weight: bold;
+  font-family: Karla-Bold;
   --bs-nav-link-padding-x: 0;
   --bs-nav-link-padding-y: 0.5rem;
   --bs-nav-link-font-weight: ;
@@ -57,39 +58,39 @@ body {overflow-x: hidden;
   text-decoration: none;
   background: 0 0;
   border: 0;
-  transition: color .20s ease-in-out,background-color .20s ease-in-out,border-color .20s ease-in-out;
+  transition: color .20s ease-in-out, background-color .20s ease-in-out, border-color .20s ease-in-out;
 }
 
 /*--------------------------------Carousel---------------*/
 
 .carousel-container {
-  width: 560px;
-  height: 500px;
+  width: 700px;
+  height: 560px;
   background-color: rgba(13, 110, 253, 0.25);
   padding-top: 50px;
 }
 
 
-.carousel-inner > .item > img {
+.carousel-inner>.item>img {
   margin: 0 auto;
   height: 50vh;
 }
 
 
 .carousel-inner {
-    position: relative;
-    width: 100%;
-    height: 60vh;
-    overflow: hidden;
-    background-position: centre;
-   
+  position: relative;
+  width: 100%;
+  height: 60vh;
+  overflow: hidden;
+  background-position: centre;
+
 }
 
-.img-fluid {
+/*.img-fluid {
   max-width: 100%;
   height: 50vh;
 }
-
+*/
 
 .about-us {
   background-color: rgba(0, 0, 0, 0.125);
@@ -103,11 +104,26 @@ body {overflow-x: hidden;
 p {
   font-family: Spectral-Light;
 }
+
+
+/*------------------Gallery section------------*/
+.mx-auto {
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+/*--Credit to Rory Patrick Sheridan--*/
+.d-flex {
+  display: flex !important;
+  flex-direction: column;
+}
+
 /*------------------------Footer------*/
 
 .fixed-bottom {
   background-color: #dee2e6:
 }
+
 .text-dark {
   --bs-text-opacity: 1;
   color: black !important;
@@ -148,10 +164,17 @@ button[type="submit"] {
 
 /*------Credit to Matt Rudge,Code Institute (resume project)----*/
 
+/*@media (max-width:900px) {
+  .navbar-container {
+    flex-basis: auto;
+    flex-wrap: wrap;
+  
+  }*/
+
 @media(min-width: 992px) {
   .center-form {
-      padding-top: 30px;
-      min-height: 240px;
-      margin: 0 auto;
-      max-width: 50%;
+    padding-top: 30px;
+    min-height: 240px;
+    margin: 0 auto;
+    max-width: 50%;
   }
