@@ -4,10 +4,29 @@ html {
   overflow-x: hidden;
 }
 
+h1 {
+  font-family: Open-Sans, sans-serif;
+  font-weight: 700;
+}
+
+h2 {
+  font-family: Open-Sans, sans-serif;
+  font-weight: 700;
+}
+
+p {
+  font-family: Lato, sans-serif;
+  font-weight: 400;
+  font-size: larger;
+}
+
+
+
+
 body {
   overflow-x: hidden;
   padding-bottom: 300px;
-  background-image: url(../assets/images/brickwall.jpg);
+  background-image: url("/assets/images/brickwall.jpg");
 }
 
 
@@ -35,7 +54,7 @@ body {
 .navbar-nav {
   font-size: x-large;
   font-weight: bold;
-  font-family: Karla-Bold;
+  font-family: Open-sans, sans-serif;
   --bs-nav-link-padding-x: 0;
   --bs-nav-link-padding-y: 0.5rem;
   --bs-nav-link-font-weight: ;
@@ -86,11 +105,8 @@ body {
 
 }
 
-/*.img-fluid {
-  max-width: 100%;
-  height: 50vh;
-}
-*/
+
+
 
 .about-us {
   background-color: rgba(0, 0, 0, 0.125);
@@ -100,9 +116,8 @@ body {
   background-color: rgba(0, 0, 0, 0.125);
 }
 
-
-p {
-  font-family: Spectral-Light;
+.quotes {
+  font-style: italic;
 }
 
 
@@ -121,14 +136,14 @@ p {
 /*------------------------Footer------*/
 
 .fixed-bottom {
-  background-color: #dee2e6:
+  background-color: #dee2e6;
 }
 
 .text-dark {
   --bs-text-opacity: 1;
   color: black !important;
   font-size: large;
-  font-family: Karla-Bold;
+  font-family: Open-sans, sans-serif;
 }
 
 .bottom-line {
@@ -140,8 +155,8 @@ p {
 
 
 .contact-heading {
-  font-family: "Opens-sans", sans-serif;
-  font-weight: 300;
+  font-family: Open-sans, sans-serif;
+  font-weight: 700;
   margin-top: 25px;
   margin-bottom: 20px;
 }
@@ -164,12 +179,6 @@ button[type="submit"] {
 
 /*------Credit to Matt Rudge,Code Institute (resume project)----*/
 
-/*@media (max-width:900px) {
-  .navbar-container {
-    flex-basis: auto;
-    flex-wrap: wrap;
-  
-  }*/
 
 @media(min-width: 992px) {
   .center-form {
