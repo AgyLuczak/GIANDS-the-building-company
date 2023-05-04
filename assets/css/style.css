@@ -46,9 +46,9 @@ body {
   font-size: x-large;
   font-family: Oxygen;
   font-weight: bold;
-  color: black;
-  text-decoration: s;
-  white-space: nowrap;
+  color: #5f5b8d;
+  font-style: italic;
+
 }
 
 .navbar-nav {
@@ -78,6 +78,10 @@ body {
   background: 0 0;
   border: 0;
   transition: color .20s ease-in-out, background-color .20s ease-in-out, border-color .20s ease-in-out;
+}
+
+.navbar-collapse {
+  background-color: #dee2e6;
 }
 
 /*--------------------------------Carousel---------------*/
