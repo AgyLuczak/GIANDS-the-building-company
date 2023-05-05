@@ -191,3 +191,10 @@ button[type="submit"] {
     margin: 0 auto;
     max-width: 50%;
   }
+
+  @media(max-width: 600px) {
+    .carousel-inner {
+      width: 60%;
+      height: 50vh;
+    }
+  }
