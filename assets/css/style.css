@@ -27,6 +27,8 @@ body {
   overflow-x: hidden;
   padding-bottom: 300px;
   background-image: url("/assets/images/brickwall.jpg");
+  background-color: #f8f9fa;
+  color: #464040;
 }
 
 
@@ -48,6 +50,7 @@ body {
   font-weight: bold;
   color: #5f5b8d;
   font-style: italic;
+  --bs-navbar-brand-hover-color: #f8f9fa;
 
 }
 
@@ -113,7 +116,7 @@ body {
 
 
 .about-us {
-  background-color: rgba(0, 0, 0, 0.125);
+  background-color: #9a9ab554;
 }
 
 .customer-feedback {
@@ -122,7 +125,14 @@ body {
 
 .quotes {
   font-style: italic;
+
 }
+
+.our-projects-content {
+  background-color: #9a9ab554;
+}
+
+
 
 
 /*------------------Gallery section------------*/
@@ -152,8 +162,19 @@ body {
 
 .bottom-line {
   font-size: small;
+
 }
 
+.btn-link a:hover {
+  background: #f8f9fa;
+}
+
+.btn-link {
+  transition: all 0.35s ease-in-out;
+  -moz-transition: all 0.35s ease-in-out;
+  -webkit-transition: all 0.35s ease-in-out;
+  -o-transition: all 0.35s ease-in-out;
+}
 
 /*-------------  Contact Form----------------*/
 
@@ -178,6 +199,10 @@ button[type="submit"] {
   background-color: #e84610;
 }
 
+.col {
+  background-color: #9a9ab554;
+}
+
 
 /* ----------------------------------------Media Queries */
 
@@ -192,9 +217,16 @@ button[type="submit"] {
     max-width: 50%;
   }
 
-  @media(max-width: 600px) {
+  /*@media(max-width: 600px) {
     .carousel-inner {
       width: 60%;
       height: 50vh;
     }
-  }
+  }*/
+
+  @media(max-width: 600px) {
+    .carousel-container {
+      width: 500px;
+      height: 560px;
+
+    }
