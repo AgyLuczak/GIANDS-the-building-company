@@ -26,7 +26,7 @@ p {
 body {
   overflow-x: hidden;
   padding-bottom: 300px;
-  background-image: url("/assets/images/brickwall.jpg");
+  background-image: url("../images/brickwall.jpg");
   background-color: #f8f9fa;
   color: #464040;
 }
@@ -149,7 +149,18 @@ body {
 
 #gallery {
   background-color: rgba(0, 0, 0, 0.125);
+
 }
+
+.photo-gallery .photos {
+  padding-bottom: 20px;
+}
+
+.photo-gallery .item {
+  padding-bottom: 30px;
+}
+
+
 
 
 
