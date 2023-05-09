@@ -90,8 +90,8 @@ body {
 /*--------------------------------Carousel---------------*/
 
 .carousel-container {
-  width: 700px;
-  height: 560px;
+  /* width: 700px;
+  height: 560px;*/
   background-color: rgba(13, 110, 253, 0.25);
   padding-top: 50px;
 }
@@ -147,6 +147,12 @@ body {
   flex-direction: column;
 }
 
+#gallery {
+  background-color: rgba(0, 0, 0, 0.125);
+}
+
+
+
 /*------------------------Footer------*/
 
 .fixed-bottom {
@@ -168,6 +174,8 @@ body {
 .btn-link a:hover {
   background: #f8f9fa;
 }
+
+/*-----Modelled on the code from the resume project-----*/
 
 .btn-link {
   transition: all 0.35s ease-in-out;
@@ -203,6 +211,11 @@ button[type="submit"] {
   background-color: #9a9ab554;
 }
 
+#contact {
+  background-color: rgba(0, 0, 0, 0.125);
+}
+
+
 
 /* ----------------------------------------Media Queries */
 
@@ -224,9 +237,31 @@ button[type="submit"] {
     }
   }*/
 
-  @media(max-width: 600px) {
+  /*@media only screen and (max-width: 600px) {
     .carousel-container {
       width: 500px;
       height: 560px;
 
     }
+  }*/
+
+  /*@media only screen and (max-width: 768px) {
+    .carousel-container {
+      width: 100% !important;
+      padding-top: 60px;
+    }
+  }*/
+
+  @media only screen and (max-width: 768px) {
+    .carousel-container {
+      padding-top: 60px;
+    }
+  }
+
+  @media only screen and (min-width: 768px) {
+    .carousel-container {
+      width: 700px;
+      height: 560px;
+
+    }
+  }
