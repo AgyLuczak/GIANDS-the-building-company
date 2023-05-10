@@ -26,7 +26,8 @@ p {
 body {
   overflow-x: hidden;
   padding-bottom: 300px;
-  background-image: url("../images/brickwall.jpg");
+  /*--credit to Nigel Edwards--*/
+  background-image: url("../images/brickwall1.jpg");
   background-color: #f8f9fa;
   color: #464040;
 }
@@ -92,7 +93,7 @@ body {
 .carousel-container {
   /* width: 700px;
   height: 560px;*/
-  background-color: rgba(13, 110, 253, 0.25);
+
   padding-top: 50px;
 }
 
@@ -182,13 +183,15 @@ body {
 
 }
 
-.btn-link a:hover {
-  background: #f8f9fa;
+
+.social-icons:hover {
+  color: red;
+  background-color: white;
 }
 
 /*-----Modelled on the code from the resume project-----*/
 
-.btn-link {
+.hover-icon {
   transition: all 0.35s ease-in-out;
   -moz-transition: all 0.35s ease-in-out;
   -webkit-transition: all 0.35s ease-in-out;
@@ -276,3 +279,4 @@ button[type="submit"] {
 
     }
   }
+}
