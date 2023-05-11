@@ -106,14 +106,11 @@ body {
 .carousel-inner {
   position: relative;
   width: 100%;
-  height: 50vh;
+  height: 60vh;
   overflow: hidden;
   background-position: center;
 
-  border-radius: 30px;
 }
-
-
 
 
 .about-us {
@@ -157,6 +154,8 @@ body {
 
 .photo-gallery .item {
   padding-bottom: 30px;
+  width: 376px;
+  height: 300px;
 }
 
 
@@ -269,7 +268,7 @@ button[type="submit"] {
   @media only screen and (min-width: 768px) {
     .carousel-container {
       width: 700px;
-      /*height: 560px;*/
+      height: 560px;
 
     }
   }
@@ -278,5 +277,22 @@ button[type="submit"] {
 @media screen and (min-width: 1600px) {
   .carousel-inner {
     /* height: 50vh;*/
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .carousel-inner {
+    border-radius: 30px;
+    height: 70vh;
+
+  }
+}
+
+
+@media only screen and (max-width: 600px) {
+  .carousel-item {
+    width: 414px !important;
+    height: 428px !important;
+
   }
 }
