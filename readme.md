@@ -7,3 +7,4 @@ This is my first milestone project and the first website I've ever designed. I d
 
 [Visit the website here](https://agyluczak.github.io/GIANDS-the-building-company/)
 
+[Wirefrmaes](./docs/GIANDS%20wireframes.pdf)
