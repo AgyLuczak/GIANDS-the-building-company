@@ -300,10 +300,10 @@ button[type="submit"] {
 }
 
 
-@media only screen and (max-width: 600px) {
+/*@media only screen and (max-width: 600px) {
   .carousel-item {
     width: 414px !important;
     height: 428px !important;
 
   }
-}
+}*/
