@@ -93,14 +93,15 @@ body {
 
 
 
-/*.carousel-inner>.item>img {
+.carousel-inner>.item>img {
   margin: 0 auto;
-  height: 50vh;
-}*/
-.carousel-inner img {
+  height: 60vh;
+}
+
+/*.carousel-inner img {
   width: 100%;
   height: fit-content;
-}
+}*/
 
 
 .carousel-inner {
@@ -154,8 +155,8 @@ body {
 
 .photo-gallery .item {
   padding-bottom: 30px;
-  width: 376px;
-  height: 300px;
+  width: 376px !important;
+  height: 300px !important;
 }
 
 
@@ -268,13 +269,22 @@ button[type="submit"] {
   @media only screen and (min-width: 768px) {
     .carousel-container {
       width: 700px;
-      height: 560px;
+      height: 360px;
 
     }
   }
 }
 
+
+
 @media screen and (min-width: 1600px) {
+  .carousel-container {
+    width: 1000px;
+    height: 600px;
+  }
+}
+
+@media screen and (min-width: 1400px) {
   .carousel-inner {
     height: 50vh;
   }
@@ -283,7 +293,7 @@ button[type="submit"] {
 @media only screen and (min-width: 768px) {
   .carousel-inner {
     border-radius: 30px;
-    height: 70vh;
+    /* height: 70vh;*/
 
   }
 }
