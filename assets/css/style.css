@@ -277,16 +277,17 @@ button[type="submit"] {
 
 
 
-@media screen and (min-width: 1600px) {
+@media screen and (min-width: 1400px) {
   .carousel-container {
-    width: 1000px;
-    height: 600px;
+    width: 800px;
+    height: 560px;
   }
 }
 
 @media screen and (min-width: 1400px) {
   .carousel-inner {
-    height: 50vh;
+    width: 800px;
+    height: 560px;
   }
 }
 
