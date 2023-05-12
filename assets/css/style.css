@@ -115,11 +115,11 @@ body {
 
 
 .about-us {
-  background-color: #9a9ab554;
+  background-color: rgba(225, 225, 225, 0.62);
 }
 
 .customer-feedback {
-  background-color: rgba(0, 0, 0, 0.125);
+  background-color: rgba(188, 191, 231, 0.62);
 }
 
 .quotes {
@@ -129,7 +129,7 @@ body {
 
 
 .our-projects-content {
-  background-color: #9a9ab554;
+  background-color: rgba(225, 225, 225, 0.62);
 }
 
 
@@ -145,7 +145,7 @@ body {
 }
 
 #gallery {
-  background-color: rgba(0, 0, 0, 0.125);
+  background-color: rgba(188, 191, 231, 0.62);
 
 }
 
@@ -216,11 +216,11 @@ button[type="submit"] {
 }
 
 .col {
-  background-color: #9a9ab554;
+  background-color: rgba(225, 225, 225, 0.62);
 }
 
 #contact {
-  background-color: rgba(0, 0, 0, 0.125);
+  background-color: rgba(188, 191, 231, 0.62);
 }
 
 
