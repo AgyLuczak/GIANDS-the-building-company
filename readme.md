@@ -72,3 +72,13 @@ The website looks slightly different from what I initially had in mind when crea
 
 - The Contact Page icludes  a contact form and contact details below it rather than next to it. As this page has little content, I thought there is enough space below the form for the contact details and the size of the contact form wasn't affected.
 
+### **Surface Plane**
+
+I used Google fonts: 'Open-Sans' for headings and 'Lato' for paragraphs. It was one of combinations sugessted on this blog:
+[WebflowBlog](https://webflow.com/blog/font-pairing?utm_source=google&utm_medium=search&utm_campaign=Google-Search-Dynamic-Search-Ads-Core-BBSS&utm_term=aud-520743545921:dsa-1636392383459___585305490212___ss_paid-bb&gclid=CjwKCAjwjYKjBhB5EiwAiFdSfk6g0qClN0ZcZPRQYnjISFHh-jxs9GKXnT9Q-emoiWuNE9nWZLpGuxoCF0MQAvD_BwE)
+They are very simple and easy to read, which I thought was appriopriate for a construction company. I used 'Oxygen' font for the logo to make it stand out more. The text color is dark grey. It is dark enough to contrast with the background color, but is easier on the eye than black text.
+
+The background image is a photo of a white brickwall sourced from [istock photos](https://www.istockphoto.com/). I wanted a background image that would be associated with a construction field to make the purpose of the website clear. I chose the white brickwall to make the website content clear and easy to read.
+
+I chose two background colours for the sections across the whole webiste: light grey and light purple. I wanted them to reflect the colours of the logo, and go well with the colour of the navbar and the the footer. The background colours are slighly transparent so that the background brickwall image can be seen, but they is enough opacity added to make the text content easy to read.
+
