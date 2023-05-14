@@ -38,7 +38,7 @@ User stories:
 8. As a first-time and returning visitor, I want to be able to read the text easily and see all images clearly on different devices.
 
 --
-
+g
 
 ### **Scope Plane**
 
@@ -53,5 +53,13 @@ In order to achieve the strategy goals, the following features will be included 
 - Contact and social links in the footer of every page
 - Separate 'Contact' page with a contact form and contact details
 - Clear text and images which will be responsive on different devices
+
+### **Structure Plane** 
+
+The website consists of three pages:
+- Home
+- Our projects
+- Contact
+The navbar recurring on each page allows users to easily move between the pages and go back to Home Page quickly. Another reccuring element is the footer with contact details and social links. These two elements make it clear to users they are still on the same website. I used the same background colors for different sections on each page to create a certain pattern to the website. The Home Page text blocks are separated with a carousel and then followed with a video so that users are not overburden with one type of input. Similarly 'Our Projects' page is divided into a text section and a gallery of images of completed projects. The 'Contact' page contains a contact form and contact details and I felt it did not need more content to serve its purpose. 
 
 
