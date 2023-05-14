@@ -120,9 +120,17 @@ body {
 }
 
 
+
+
 .about-us {
   background-color: rgba(225, 225, 225, 0.62);
 }
+
+.block-divider {
+  border-width: thick;
+  color: rgb(17, 16, 16);
+}
+
 
 .customer-feedback {
   background-color: rgba(188, 191, 231, 0.62);
