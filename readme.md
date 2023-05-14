@@ -1,3 +1,6 @@
+![](./docs/amiresponsive.png)
+
+
 # GIANDS constructions - A milestone project
 
 ## Introduction
