@@ -37,4 +37,21 @@ User stories:
 7. As a first-time and returning visitor, I want to be able to easily navigate the website. I can access all the pages easily and go back to the home page quickly.
 8. As a first-time and returning visitor, I want to be able to read the text easily and see all images clearly on different devices.
 
+--
+
+
+### **Scope Plane**
+
+In order to achieve the strategy goals, the following features will be included on the website:
+- The logo and the name of the company in the navbar
+- Navbar, to navigate easily between the pages
+- 'About us' section at the top of the Home page explaining the purpose of the business
+- Caurosel with images showing previous building projects
+- Time-snap video showing a project from start to finish 
+- Separate 'Our Projects' page with more detailed descriptions of company's services and a gallery of completed projects
+- Reviews from former clients
+- Contact and social links in the footer of every page
+- Separate 'Contact' page with a contact form and contact details
+- Clear text and images which will be responsive on different devices
+
 
