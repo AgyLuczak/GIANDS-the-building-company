@@ -65,3 +65,10 @@ The navbar recurring on each page allows users to easily move between the pages 
 
 [Wireframes](https://github.com/AgyLuczak/GIANDS-the-building-company/blob/f93974a71d80ae3c7f8b09f842a2e7b82f1f81a0/docs/GIANDS%20wireframes.pdf)
 
+The website looks slightly different from what I initially had in mind when creating the wireframes. 
+
+- The 'Projects' text section was moved to Our Projects Page after I decided to add a time-snap video to the Home Page. I wanted to even the content out instead of having too much of it on the first page.
+- I changed the gallery section into two rows of photos instead of 'before and after' columns. The main reason for that is that I do not have enough 'before and after' authentic photos and I found it hard to find the right substitute ones on the internet. Also I found a lightbox gallery format that worked well and allowed for the images to be enlarged. 
+
+- The Contact Page icludes  a contact form and contact details below it rather than next to it. As this page has little content, I thought there is enough space below the form for the contact details and the size of the contact form wasn't affected.
+
