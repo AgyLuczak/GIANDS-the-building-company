@@ -59,11 +59,12 @@ The website consists of three pages:
 - Home
 - Our projects
 - Contact
+
 The navbar recurring on each page allows users to easily move between the pages and go back to Home Page quickly. Another reccuring element is the footer with contact details and social links. These two elements make it clear to users they are still on the same website. I used the same background colors for different sections on each page to create a certain pattern to the website. The Home Page text blocks are separated with a carousel and then followed with a video so that users are not overburden with one type of input. Similarly 'Our Projects' page is divided into a text section and a gallery of images of completed projects. The 'Contact' page contains a contact form and contact details and I felt it did not need more content to serve its purpose. 
 
 ### **Skeleton Plane**
 
-[Wireframes](https://github.com/AgyLuczak/GIANDS-the-building-company/blob/f93974a71d80ae3c7f8b09f842a2e7b82f1f81a0/docs/GIANDS%20wireframes.pdf)
+[Wireframes](./docs/GIANDS_wireframes.pdf)
 
 The website looks slightly different from what I initially had in mind when creating the wireframes. 
 
@@ -81,4 +82,5 @@ They are very simple and easy to read, which I thought was appriopriate for a co
 The background image is a photo of a white brickwall sourced from [istock photos](https://www.istockphoto.com/). I wanted a background image that would be associated with a construction field to make the purpose of the website clear. I chose the white brickwall to make the website content clear and easy to read.
 
 I chose two background colours for the sections across the whole webiste: light grey and light purple. I wanted them to reflect the colours of the logo, and go well with the colour of the navbar and the the footer. The background colours are slighly transparent so that the background brickwall image can be seen, but they is enough opacity added to make the text content easy to read.
+
 
