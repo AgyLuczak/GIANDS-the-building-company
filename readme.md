@@ -108,4 +108,16 @@ I chose two background colours for the sections across the whole webiste: light 
 - Contact form placed on the top of the Contact Page. Allows users to send a message and ask for a quote. The submit bottom is dark red with white text in it to make it stand out. For the time being I used Code Institute code which links to [Formdump](https://formdump.codeinstitute.net/). When the details are submitted correctly, users get the following result:
 ![form submission result](./docs/formsubmission.png)
 
-- The background image is the same throughout the whole website. It's a white brickwall which associates with the construction business. The white colour makes the rest of the content clearly visible. I used consistent background colours for the sections (light grey and light purple) to match the colours of the logo, navbar and the footer. I made the backround images slightly transparent so that the background image is still visible.
+- The background image is the same throughout the whole website. It's a white brickwall which associates with the construction business. The white colour makes the rest of the content clearly visible. I used consistent background colours for the sections (light grey and light purple) to match the colours of the logo, navbar and the footer. I made the backround images slightly transparent so that the background image is still visible.### **Features I'd like to incorporate in the future**
+
+ - I'd like to work on the carousel section make it wider on the big screens. I had a lot of problems creating this feature, which I will describe in another section. Currently, it serves its purposes and takes the whole width on smaller screens.
+
+ - I'd like to add more images to the gallery section and add descriptions of the projects
+
+ - I'd like to add more text content and replace the placeholder quotes with authentic reviews.
+
+ - I'd like to replace the placeholder video with a real time-snap video showing a real project undertaken by the company
+
+ - I'd like the contact form to be sent to the company
+
+ - I'd like to make the webiste more interactive once I understand how JavaScript works
