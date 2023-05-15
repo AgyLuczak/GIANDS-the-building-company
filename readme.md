@@ -282,28 +282,51 @@ I chose two background colours for the sections across the whole webiste: light 
 | Opera  | Success |
 |  Mozilla Firefox | Success |
 
+---
+I used Chrome Developer tools to simulate the following devices:
+- iphone SE
+- iphone XR
+- iphone 12 Pro
+- Pixel 5
+- Samsung Galaxy S8+
+- Samsung Galaxy S20 Ultra
+- iPad Air 
+- iPad Mini
+- Surface Pro7
+- Galaxy Fold 
+- Samsung Galaxy A51/71
+- Nest Hub 
+- Nest Hub Max
 
-- I used Chrome Developer tools to simulate the following devices:
-    - iphone SE
-    - iphone XR
-    - iphone 12 Pro
-    - Pixel 5
-    - Samsung Galaxy S8+
-    - Samsung Galaxy S20 Ultra
-    - iPad Air 
-    - iPad Mini
-    - Surface Pro7
-    - Galaxy Fold 
-    - Samsung Galaxy A51/71
-    - Nest Hub 
-    - Nest Hub Max
+
 
 The website was responsive on all these devices.
 
 ---
 
+I validated each page with W3C Markup Validator and W3C CSS Validator.
+
+- [W3C Markup Validator](https://validator.w3.org/)
+    - Home Page - the validator showed me the following error:
+
+    ![Home Page Error](./docs/Home_Page_error.png)
+
+    As this is an embedded youtube video, I decided to leave it in the code as I felt hesitant about changing anything in the code.
+
+    - Our Projects Page - no errors
+
+    ![OurProjects_validated](./docs/Our_projects_page_validated.png)
+
+    - Contact Page - no errors 
+
+    ![Contact_validated](./docs/Contact_Page_Validated.png)
 
 
+- [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+    - CSS - no errors
+
+    ![CSS validated](./docs/css_validated.png)
 
 
 
