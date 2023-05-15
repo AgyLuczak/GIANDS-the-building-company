@@ -91,4 +91,8 @@ I chose two background colours for the sections across the whole webiste: light 
 
 ![Navbarsmall](./docs/navbar_small.png)
 
-- Footer – Another feature reccuring on each page. It contains contact details and social links. It's responsive: the phone number goes above the email address and social links on a small screen. When hovered upon the links colour changes to white and the background colour becomes darker.
+- Footer – Another feature reccuring on each page. It contains contact details and social links. It's responsive: the phone number goes above the email address and social links on a small screen. When hovered upon the links colour changes to white and the background colour becomes darker. Social links open in a new tab.
+
+- 'About us' section. Placed on the top of the Home Page to explain the purpose of the business and its location. It provides  a short summary of the services it offers. The background colour is light grey and the text is dark grey making the section easy to read. 
+
+- Carousel showing three completed projects placed in a central position below the 'About Us' section. It shows examples of services provided by the company. The movement of the carousel is initiated by users by clicking on the indicators.
