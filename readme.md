@@ -83,4 +83,10 @@ The background image is a photo of a white brickwall sourced from [istock photos
 
 I chose two background colours for the sections across the whole webiste: light grey and light purple. I wanted them to reflect the colours of the logo, and go well with the colour of the navbar and the the footer. The background colours are slighly transparent so that the background brickwall image can be seen, but they is enough opacity added to make the text content easy to read.
 
+## **Features**
 
+- Navbar – reccuring on ech page. It's responsive and toggles to a hamburger menu on smaller screens. Menu items are coloured black when active and grey when inactive. The menu items for inactive pages change tothe white colour when hovered upon. The brand name on the left also changes colour to white when hovered upon as a link back to the home page.The logo and the brand are linked to a home page when clicked.
+
+![Navbar](./docs/navbar.png)
+
+![Navbarsmall](./docs/navbar_small.png)
