@@ -99,4 +99,5 @@ I chose two background colours for the sections across the whole webiste: light 
 
 - Customer's feedback section with the reviews of former clients. I've used placeholders for now with made-up quotes from two celebrities. Once I get authentic reviews, this will be changed. The background color is light purple and the text is dark grey making the text easy to read. The quotes are positioned next to each other on larger screens and stacked upon each other on smaller ones.
 
+- Time-snap video showing a project from start to finish, placed on the bottom of the page. As I don't have an authentic video yet, I've used a placeholder sourced from youtube. The purpose of the video is to show the team in action and show different stages of a project in a more vivid way. The video is initiated by users by clicking on the play button.
 
