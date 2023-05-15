@@ -95,4 +95,8 @@ I chose two background colours for the sections across the whole webiste: light 
 
 - 'About us' section. Placed on the top of the Home Page to explain the purpose of the business and its location. It provides  a short summary of the services it offers. The background colour is light grey and the text is dark grey making the section easy to read. 
 
-- Carousel showing three completed projects placed in a central position below the 'About Us' section. It shows examples of services provided by the company. The movement of the carousel is initiated by users by clicking on the indicators.
+- Carousel showing three completed projects placed in a central position below the 'About Us' section. It shows examples of services provided by the company. It's responsive and takes the whole width of a screen on smaller devices. The movement of the carousel is initiated by users by clicking on the indicators.
+
+- Customer's feedback section with the reviews of former clients. I've used placeholders for now with made-up quotes from two celebrities. Once I get authentic reviews, this will be changed. The background color is light purple and the text is dark grey making the text easy to read. The quotes are positioned next to each other on larger screens and stacked upon each other on smaller ones.
+
+
