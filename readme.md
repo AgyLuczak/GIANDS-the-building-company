@@ -168,7 +168,7 @@ I chose two background colours for the sections across the whole webiste: light 
      - Used to resize and crop the images
 
 - [AmIResponsive](http://ami.responsivedesign.is/)
-    - Used to generate repsonsive image used in README file.
+    - Used to generate responsive image of the website used in README file.
 
 - [Readme.so](https://readme.so)
     - Used to edit the readme file.
