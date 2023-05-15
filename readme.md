@@ -85,8 +85,10 @@ I chose two background colours for the sections across the whole webiste: light 
 
 ## **Features**
 
-- Navbar – reccuring on ech page. It's responsive and toggles to a hamburger menu on smaller screens. Menu items are coloured black when active and grey when inactive. The menu items for inactive pages change tothe white colour when hovered upon. The brand name on the left also changes colour to white when hovered upon as a link back to the home page.The logo and the brand are linked to a home page when clicked.
+- Navbar – Reccuring on each page. It's responsive and toggles to a hamburger menu on smaller screens. Menu items are coloured black when active and grey when inactive. The menu items for inactive pages change tothe white colour when hovered upon. The brand name on the left also changes colour to white when hovered upon as a link back to the home page.The logo and the brand are linked to a home page when clicked.
 
 ![Navbar](./docs/navbar.png)
 
 ![Navbarsmall](./docs/navbar_small.png)
+
+- Footer – Another feature reccuring on each page. It contains contact details and social links. It's responsive: the phone number goes above the email address and social links on a small screen. When hovered upon the links colour changes to white and the background colour becomes darker.
