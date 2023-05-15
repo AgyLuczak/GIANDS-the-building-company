@@ -170,7 +170,7 @@ I chose two background colours for the sections across the whole webiste: light 
     - Used to edit the readme file.
 
 - [Tables generator](https://www.tablesgenerator.com/)
-    - Used to create a table in readme file
+    - Used to create a table in readme file.
 
 - [W3C Markup Validation Service](https://validator.w3.org/) 
     - Used to validate all HTML code written and used in this webpage.
@@ -281,6 +281,28 @@ I chose two background colours for the sections across the whole webiste: light 
 | Microsoft Edge  | Success |
 | Opera  | Success |
 |  Mozilla Firefox | Success |
+
+
+- I used Chrome Developer tools to simulate the following devices:
+    - iphone SE
+    - iphone XR
+    - iphone 12 Pro
+    - Pixel 5
+    - Samsung Galaxy S8+
+    - Samsung Galaxy S20 Ultra
+    - iPad Air 
+    - iPad Mini
+    - Surface Pro7
+    - Galaxy Fold 
+    - Samsung Galaxy A51/71
+    - Nest Hub 
+    - Nest Hub Max
+
+The website was responsive on all these devices.
+
+---
+
+
 
 
 
