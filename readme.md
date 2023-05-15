@@ -101,3 +101,7 @@ I chose two background colours for the sections across the whole webiste: light 
 
 - Time-snap video showing a project from start to finish, placed on the bottom of the page. As I don't have an authentic video yet, I've used a placeholder sourced from youtube. The purpose of the video is to show the team in action and show different stages of a project in a more vivid way. The video is initiated by users by clicking on the play button.
 
+- 'Our projects' section is placed at the top of Our projects page. This section describes services offered by the company in more details. The section is divided into 4 parts, each starting with an icon and a heading next to it. The section is responive and on smaller screens the elements are placed one under the other, making the content easy to read on small devices. The background colour is light grey and the text is dark grey making the text clear.
+
+- The gallery is placed under 'Our projects' section. I used lightbox responsive gallery. The photos are put in 2 rows of three images. On smaller screen the images are stacked on top of each other. Images are enlarged to a full screen when clicked upon. The photos show previous projects undertaken by the company. One of the images is a photo of the team.
+
