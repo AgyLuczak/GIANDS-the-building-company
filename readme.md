@@ -85,11 +85,7 @@ I chose two background colours for the sections across the whole webiste: light 
 
 ## **Features**
 
-- Navbar – Reccuring on each page. It's responsive and toggles to a hamburger menu on smaller screens. Menu items are coloured black when active and grey when inactive. The menu items for inactive pages change tothe white colour when hovered upon. The brand name on the left also changes colour to white when hovered upon as a link back to the home page.The logo and the brand are linked to a home page when clicked.
-
-![Navbar](./docs/navbar.png)
-
-![Navbarsmall](./docs/navbar_small.png)
+- Navbar – Reccuring on each page. It's responsive and toggles to a hamburger menu on smaller screens. Menu items are coloured black when the page is active and grey when inactive. The menu items for inactive pages change tothe white colour when hovered upon. The brand name on the left also changes colour to white when hovered upon as a link back to the home page.The logo and the brand are linked to a home page when clicked.
 
 - Footer – Another feature reccuring on each page. It contains contact details and social links. It's responsive: the phone number goes above the email address and social links on a small screen. When hovered upon the links colour changes to white and the background colour becomes darker. Social links open in a new tab.
 
@@ -179,7 +175,11 @@ I chose two background colours for the sections across the whole webiste: light 
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
     - Used to validate all CSS code written and used in this webpage.
 
-    ### User Stories
+---
+
+## **Testing**
+
+ ### User Stories
 
 1. **As a first-time visitor, I want to easily understand the purpose of the website.**
 
@@ -196,8 +196,6 @@ I chose two background colours for the sections across the whole webiste: light 
 
 --
 
-
-
 2. **As a first-time visitor, I want to easily find information regarding the business and services it provides.**
 
 - 'About Us' at the top of the Home Page gives a brief summary of services offered the company. 
@@ -207,4 +205,68 @@ I chose two background colours for the sections across the whole webiste: light 
 ![Our Projects](./docs/Our_Projects_big.png)
 
 ![Our Projects small](./docs/Our_Projects_small.png)
+
+--
+
+3. **As a first-time visitor, I want to see examples of projects undertaken by the business.**
+
+- The caurosel on the Home Page and the gallery on Our Projects show examples of previous projects. 
+
+![carousel small](./docs/carousel_on_mobile.png)
+
+![gallery](./docs/gallery.png)
+
+--
+
+4. **As a first-time visitor, I want to see reviews from previous clients.**
+
+- The Home Page includes 'Customers' feedback' section. These are placeholders for now with made-up content. In the future I'd like to replace them with authentic reviews.
+
+![reviews](./docs/reviews.png)
  
+ --
+
+ 5. **As a first-time or returning visitor, I want to easily find the contact details and social links.**
+
+- The footer which is a recurring element across the website contains contact details and social links. When the links are hovered upon, they change the colour to white and the background color becomes darker. The social links open in a new tab.
+
+![footer](./docs/footer.png)
+
+-Contact details can be also found on the Contact Page below the contact form. 
+
+--
+
+
+6. **As a first-time or returning visitor, I want to access a contact form to get a quote.**
+
+- The Contact Page contains a contact form. The submit bottom is very clear thanks to strongly contrasting colours: dark red and white.
+
+![contact form](./docs/contact_form.png)
+
+--
+
+7. **As a first-time and returning visitor, I want to be able to easily navigate the website. I can access all the pages easily and go back to the home page quickly.**
+
+ - The Navbar enables user to easily navigate the website.  Menu items are coloured black when the page is active and grey when inactive. The menu items for inactive pages change tothe white colour when hovered upon. The brand name on the left also changes colour to white when hovered upon as a link back to the home page.The logo and the brand are linked to a home page when clicked. The navbar is responsive and toggles to a hamburger menu on smaller screens.
+
+![Navbar](./docs/navbar.png)
+
+![Navbarsmall](./docs/navbar_small.png)
+
+--
+8. **As a first-time and returning visitor, I want to be able to read the text easily and see all images clearly on different devices.**
+
+- The sections on the webiste have a background colour of either light grey or light purple. The backround colours are slightly transparent to show the white brickwall backround image, but at the same time have enought opacity to make the text clear and easy to read.
+
+- I used 'Open-Sans' and 'Lato' fonts which make the text clear and easy to read. The colour of the text is dark grey which makes it clearly visible.
+
+- The gallery images can be enlarged when clicked upon so that they can be seen more clearly.
+
+![gallery enlarged](./docs/gallery_photo_enlarged.png)
+
+- This is a fully responsive websites and all elements can be clearly seen on all devices.
+
+
+
+
+
