@@ -105,3 +105,7 @@ I chose two background colours for the sections across the whole webiste: light 
 
 - The gallery is placed under 'Our projects' section. I used lightbox responsive gallery. The photos are put in 2 rows of three images. On smaller screen the images are stacked on top of each other. Images are enlarged to a full screen when clicked upon. The photos show previous projects undertaken by the company. One of the images is a photo of the team.
 
+- Contact form placed on the top of the Contact Page. Allows users to send a message and ask for a quote. The submit bottom is dark red with white text in it to make it stand out. For the time being I used Code Institute code which links to [Formdump](https://formdump.codeinstitute.net/). When the details are submitted correctly, users get the following result:
+![form submission result](./docs/formsubmission.png)
+
+- The background image is the same throughout the whole website. It's a white brickwall which associates with the construction business. The white colour makes the rest of the content clearly visible. I used consistent background colours for the sections (light grey and light purple) to match the colours of the logo, navbar and the footer. I made the backround images slightly transparent so that the background image is still visible.
