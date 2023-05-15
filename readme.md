@@ -169,6 +169,9 @@ I chose two background colours for the sections across the whole webiste: light 
 - [Readme.so](https://readme.so)
     - Used to edit the readme file.
 
+- [Tables generator](https://www.tablesgenerator.com/)
+    - Used to create a table in readme file
+
 - [W3C Markup Validation Service](https://validator.w3.org/) 
     - Used to validate all HTML code written and used in this webpage.
 
@@ -265,6 +268,21 @@ I chose two background colours for the sections across the whole webiste: light 
 ![gallery enlarged](./docs/gallery_photo_enlarged.png)
 
 - This is a fully responsive websites and all elements can be clearly seen on all devices.
+
+---
+
+### Further Testing
+
+- The website was tested on the following browsers:
+
+| BROWSER  | RESULT  |
+|---|---|
+|  Google Chrome | Success |
+| Microsoft Edge  | Success |
+| Opera  | Success |
+|  Mozilla Firefox | Success |
+
+
 
 
 
