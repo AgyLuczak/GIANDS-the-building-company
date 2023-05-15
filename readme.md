@@ -178,4 +178,33 @@ I chose two background colours for the sections across the whole webiste: light 
 
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
     - Used to validate all CSS code written and used in this webpage.
+
+    ### User Stories
+
+1. **As a first-time visitor, I want to easily understand the purpose of the website.**
+
+- When users enter the website they see the navbar with the company logo 'GIANDS constructions'. The top 'About Us' section clearly explains what services the company provides. 
+
+![Home Page Top](./docs/HomePage_top.png)
+
+
+- The carousel presents examples of previous buiding projects, showing clearly what the purpose of the website is.
+
+![Carousel](./docs/carousel_big.png)
+
+- The time-snap video at the bottom of the page shows a building project from start to finish.
+
+--
+
+
+
+2. **As a first-time visitor, I want to easily find information regarding the business and services it provides.**
+
+- 'About Us' at the top of the Home Page gives a brief summary of services offered the company. 
+
+- Our projects Page contains a section with a more detailed description of services provided by the company. The icons add more clearance to the section. On small screens the text content is represented as one column, making it easier to read.
+
+![Our Projects](./docs/Our_Projects_big.png)
+
+![Our Projects small](./docs/Our_Projects_small.png)
  
