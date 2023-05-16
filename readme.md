@@ -459,9 +459,12 @@ I followed my mentor's tips and focused on how to improve the performance of the
 14. **Couldn't remove the underlining or change the colour of the contact details on the contact page**
 - ***Solution:*** I added no-underline class to the link (which was making the contact details blue and underlined) and changed the colour in CSS (credit to Stackoverlow)
 
+15. **Couldn't open the wireframes pdf file in Gitpod**
+- ***Solution:*** I downloaded a pdf extension and then it worked
+
 </br>
 
-## Deployment
+## **Deployment**
 
 I deployed this website by using GitPages and followed these steps:
 
@@ -504,7 +507,51 @@ If you want to download a local version of the repository, you can clone it.
 6. Press enter and your local clone will be created.
 
 </br>
+
 ---
+
+</br>
+
+**Code**
+
+- [MDB bootstrap](https://mdbootstrap.com/)
+ - I used their code for the footer with social links and adapted it
+
+- [Epic Bootstrap](https://epicbootstrap.com/snippets/lightbox-gallery)
+ - I adapted their code for a responsive gallery
+
+- [Stackoverflow](https://stackoverflow.com/)
+    - I found solutions there to some of the issues described in 'Bugs and fixes' section.
+
+- [Matt Rudge, Code Institute](https://codeinstitute.net/)
+    - Hover effect on the social media icons.
+    - Form on the Contact Page.
+    - post method and action used in the contact form
+
+- [Net Ninja](https://www.youtube.com/@NetNinja)
+    - Great tutorials on Bootstrap especially the grid system
+
+- Nigel Edwards (technical support tutour) - pathways to the images.
+
+- Rory Patrick Sheridan (my mentor) - using d-flex for the gallery, suggestions for improving website performance
+
+ 
+**Content**
+
+[Istock](https://www.istockphoto.com/)
+    - Source of the background image
+
+[Youtube](https://www.youtube.com)
+    - Source of the time-sanp placeholder video
+
+- The photograps on the website were taken by my husband Gniewomir Zaworski
+
+
+ ## Acknowledgements
+
+I would like to thank my course mentor Rory Patrick Sheridan and my tutor Nigel Edwards for their help and support during the project. 
+
+
 
 
 
