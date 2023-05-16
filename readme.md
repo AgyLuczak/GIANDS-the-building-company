@@ -321,6 +321,7 @@ I chose two background colours for the sections across the whole webiste: light 
 </br>
 ---
 </br>
+
 I used Chrome Developer tools to simulate the following devices:
 - iphone SE
 - iphone XR
@@ -336,12 +337,14 @@ I used Chrome Developer tools to simulate the following devices:
 - Nest Hub 
 - Nest Hub Max
 
-
-
 The website was responsive on all these devices.
+
 </br>
 ---
 </br>
+
+### **W3C Markup Validator and W3C CSS Validator.**
+
 I validated each page with W3C Markup Validator and W3C CSS Validator.
 
 - [W3C Markup Validator](https://validator.w3.org/)
@@ -390,6 +393,68 @@ I followed my mentor's tips and focused on how to improve the performance of the
  </br>
  
  ![lighthouse after](./docs/lighthouse_after.png)
+
+ </br>
+
+
+## **Known bugs and fixes**
+
+</br>
+
+1.  **The footer wouldn't stick to the bottom of the page.**
+***Solution:*** added fixed-bottom class to the footer (found on Stackoverflow)
+
+2.	**Fixed bottom footer covered the text, making scrolling impossible**
+***Solution:*** added padding-bottom to the body (Credit: Stackoverflow)
+
+3. **Quotes columns displayed as rows**
+***Solution:*** Removed one of the row classes and got rid of unnecessary divs
+
+4. **On small devices there was extra horizontal space**
+***Solution:*** added overflow-x: hidden to the html and body in CSS (credit to Stackoverflow)
+
+5. **Fontawesome icons wouldn't load.** 
+***Solution:*** the icons I chose were not for free. I used 'free' filter and chose different ones.
+
+6.	**Can't see the menu items when the Navbar is collapsed as it merges with the backround image of the website** 
+
+</br>
+
+![navbar collapse issue](./docs/togglebarissue.png)
+
+</br>
+
+***Solution:*** added backround college to the navbar-collapse class matching the navbar colour.
+
+7. **Social icons wouldn't hover**
+***Solution:*** added social-icons class in the links in html and targeted them with css 
+
+8. **The carousel covered the whole screen**
+***Solution:*** I put the carousel in a container and gave it size attributes. (Credit to Stackoverlow)
+
+9. **The carousel images were too stretched**
+
+</br>
+
+![stretched carousel](./docs/carousel_stretched.png)
+
+</br>
+
+***Solution:*** I added size attributes to carousel-inner class and the images.
+
+10. **The carousel overlapped the text on larger screens**
+***Solution:*** I added media query @media screen and (min-width: 1280px) to change the size of the carousel container.
+
+11. **Gallery images were not of the same size and didn't look even**
+***Solution:*** I tried resizing the gallery images with css to no avail. Once I cropped the images and made them the same size the problem was solved.
+
+12. **The logo was not inline with the navbar on smaller screens and was overlapping the body of the page slightly**
+***Solution:*** I cropped the logo and made it smaller.
+
+13. **The code validator was showing an error with section tags.**
+***Solution:*** I removed section tags and replaced them with div tags in parts without headings.
+
+
 
 
 
