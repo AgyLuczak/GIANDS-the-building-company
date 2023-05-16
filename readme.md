@@ -402,19 +402,21 @@ I followed my mentor's tips and focused on how to improve the performance of the
 </br>
 
 1.  **The footer wouldn't stick to the bottom of the page.**
-***Solution:*** added fixed-bottom class to the footer (found on Stackoverflow)
+- ***Solution:*** added fixed-bottom class to the footer (found on Stackoverflow)
+
+
 
 2.	**Fixed bottom footer covered the text, making scrolling impossible**
-***Solution:*** added padding-bottom to the body (Credit: Stackoverflow)
+- ***Solution:*** added padding-bottom to the body (Credit: Stackoverflow)
 
 3. **Quotes columns displayed as rows**
-***Solution:*** Removed one of the row classes and got rid of unnecessary divs
+- ***Solution:*** Removed one of the row classes and got rid of unnecessary divs
 
 4. **On small devices there was extra horizontal space**
-***Solution:*** added overflow-x: hidden to the html and body in CSS (credit to Stackoverflow)
+- ***Solution:*** added overflow-x: hidden to the html and body in CSS (credit to Stackoverflow)
 
 5. **Fontawesome icons wouldn't load.** 
-***Solution:*** the icons I chose were not for free. I used 'free' filter and chose different ones.
+- ***Solution:*** the icons I chose were not for free. I used 'free' filter and chose different ones.
 
 6.	**Can't see the menu items when the Navbar is collapsed as it merges with the backround image of the website** 
 
@@ -424,13 +426,13 @@ I followed my mentor's tips and focused on how to improve the performance of the
 
 </br>
 
-***Solution:*** added backround college to the navbar-collapse class matching the navbar colour.
+- ***Solution:*** added backround college to the navbar-collapse class matching the navbar colour.
 
 7. **Social icons wouldn't hover**
-***Solution:*** added social-icons class in the links in html and targeted them with css 
+- ***Solution:*** added social-icons class in the links in html and targeted them with css 
 
 8. **The carousel covered the whole screen**
-***Solution:*** I put the carousel in a container and gave it size attributes. (Credit to Stackoverlow)
+- ***Solution:*** I put the carousel in a container and gave it size attributes. (Credit to Stackoverlow)
 
 9. **The carousel images were too stretched**
 
@@ -440,19 +442,22 @@ I followed my mentor's tips and focused on how to improve the performance of the
 
 </br>
 
-***Solution:*** I added size attributes to carousel-inner class and the images.
+- ***Solution:*** I added size attributes to carousel-inner class and the images.
 
 10. **The carousel overlapped the text on larger screens**
-***Solution:*** I added media query @media screen and (min-width: 1280px) to change the size of the carousel container.
+- ***Solution:*** I added media query @media screen and (min-width: 1280px) to change the size of the carousel container.
 
 11. **Gallery images were not of the same size and didn't look even**
-***Solution:*** I tried resizing the gallery images with css to no avail. Once I cropped the images and made them the same size the problem was solved.
+- ***Solution:*** I tried resizing the gallery images with css to no avail. Once I cropped the images and made them the same size the problem was solved.
 
 12. **The logo was not inline with the navbar on smaller screens and was overlapping the body of the page slightly**
-***Solution:*** I cropped the logo and made it smaller.
+- ***Solution:*** I cropped the logo and made it smaller.
 
 13. **The code validator was showing an error with section tags.**
-***Solution:*** I removed section tags and replaced them with div tags in parts without headings.
+- ***Solution:*** I removed section tags and replaced them with div tags in parts without headings.
+
+14. **Couldn't remove the underlining or change the colour of the contact details on the contact page**
+- ***Solution:*** I added no-underline class to the link (which was making the contact details blue and underlined) and changed the colour in CSS (credit to Stackoverlow)
 
 
 
