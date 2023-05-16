@@ -20,9 +20,6 @@ p {
   font-size: larger;
 }
 
-
-
-
 body {
   overflow-x: hidden;
   padding-bottom: 300px;
@@ -32,15 +29,12 @@ body {
   color: #464040;
 }
 
-
 /*--------------------------------Navbar---------------*/
-
 
 .bg-body-tertiary {
   height: 100px;
   background-color: #dee2e6 !important;
 }
-
 
 .navbar-brand {
   padding-top: var(--bs-navbar-brand-padding-y);
@@ -52,7 +46,6 @@ body {
   color: #5f5b8d;
   font-style: italic;
   --bs-navbar-brand-hover-color: #f8f9fa;
-
 }
 
 .navbar-nav {
@@ -95,16 +88,10 @@ body {
 
 /*--------------------------------Carousel---------------*/
 
-
-
-
 .carousel-inner>.item>img {
   margin: 0 auto;
   height: 60vh;
 }
-
-
-
 
 .carousel-inner {
   position: relative;
@@ -116,11 +103,12 @@ body {
 
 }
 
-
-
-
 .about-us {
   background-color: rgba(225, 225, 225, 0.62);
+}
+
+.about-content {
+  text-align: justify;
 }
 
 .block-divider {
@@ -128,26 +116,19 @@ body {
   color: rgb(17, 16, 16);
 }
 
-
 .customer-feedback {
   background-color: rgba(188, 191, 231, 0.62);
 }
 
 .quotes {
   font-style: italic;
-
 }
-
 
 .our-projects-content {
   background-color: rgba(225, 225, 225, 0.62);
 }
 
-
-
-
 /*------------------Gallery section------------*/
-
 
 /*--Credit to Rory Patrick Sheridan--*/
 .d-flex {
@@ -158,7 +139,6 @@ body {
 #gallery {
   background-color: rgba(188, 191, 231, 0.62);
   padding-bottom: 50px;
-
 }
 
 .photo-gallery .photos {
@@ -171,10 +151,6 @@ body {
   height: 300px !important;
 }
 
-
-
-
-
 /*------------------------Footer------*/
 
 .fixed-bottom {
@@ -183,7 +159,6 @@ body {
 
 .text-dark {
   --bs-text-opacity: 1;
-
   font-size: large;
   font-family: Open-sans, sans-serif;
 }
@@ -205,7 +180,6 @@ body {
 }
 
 /*-------------  Contact Form----------------*/
-
 
 .contact-heading {
   font-family: Open-sans, sans-serif;
@@ -236,11 +210,9 @@ button[type="submit"] {
 }
 
 
-
 /* ----------------------------------------Media Queries */
 
 /*------Credit to Matt Rudge,Code Institute (resume project)----*/
-
 
 @media(min-width: 992px) {
   .center-form {
@@ -249,8 +221,6 @@ button[type="submit"] {
     margin: 0 auto;
     max-width: 50%;
   }
-
-
 
   @media only screen and (max-width: 768px) {
     .carousel-container {
@@ -266,8 +236,6 @@ button[type="submit"] {
     }
   }
 }
-
-
 
 @media screen and (min-width: 1280px) {
   .carousel-container {
