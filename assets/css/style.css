@@ -209,6 +209,10 @@ button[type="submit"] {
   background-color: rgba(188, 191, 231, 0.62);
 }
 
+.no-underline {
+  text-decoration: none !important;
+  color: #464040 !important;
+}
 
 /* ----------------------------------------Media Queries */
 
