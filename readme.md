@@ -210,7 +210,6 @@ I chose two background colours for the sections across the whole webiste: light 
 </br>
 
 ## **Testing**
-</br>
 
  ### User Stories
  </br>
@@ -290,6 +289,7 @@ I chose two background colours for the sections across the whole webiste: light 
 ![Navbarsmall](./docs/navbar_small.png)
 
 </br>
+
 8. **As a first-time and returning visitor, I want to be able to read the text easily and see all images clearly on different devices.**
 
 - The sections on the webiste have a background colour of either light grey or light purple. The backround colours are slightly transparent to show the white brickwall backround image, but at the same time have enought opacity to make the text clear and easy to read.
@@ -366,6 +366,30 @@ I validated each page with W3C Markup Validator and W3C CSS Validator.
 
     ![CSS validated](./docs/css_validated.png)
 
+</br>
+
+### **Lighthouse**
+
+I used Lighthouse for testing the website's performance.
+Here are the initial results:
+
+</br>
+
+![lightouse before](./docs/lighthouse_before.png)
+
+I followed my mentor's tips and focused on how to improve the performance of the websites by implementing the following changes:
+ - I added aria-hidden:"true" attributes and class="visually-hidden" to the social icons
+ - Made sure all the headings are sequential 
+ - Icreased the contrast between the text and the backround colour by adding opacity to the latter
+ - Incresed the colour contrast of the submit button
+
+ I also added alt attributes to all the images and changed their format from jpg to png.
+
+ This is the result after the above changes were made:
+
+ </br>
+ 
+ ![lighthouse after](./docs/lighthouse_after.png)
 
 
 
