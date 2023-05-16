@@ -7,7 +7,7 @@
 
 </br>
 
-This is my first milestone project and the first website I've ever designed. As I started the course as a complete beginner in coding this project was a massive challenge and a big learning curve for me. I decided to create a website for my husband's building  company as it made the project realistic, practical and useful. This project is a functional static-website, built mainly with HTML and CSS. In the future I'd like to revisit the project and implement other languages and technologies that will be covered in the next modules of the course. Hopefully, once I gain more confidence in programming I will be able to implement more sofisticated changes which will make the website more interactive and stylish.  
+This is my first milestone project and the first website I've ever designed. As I started the course as a complete beginner in coding, this project was a massive challenge and a big learning curve for me. I decided to create a website for my husband's building  company as it made the project realistic, practical and useful. This project is a functional static-website, built mainly with HTML and CSS. In the future I'd like to revisit the project and implement other languages and technologies that will be covered in the next modules of the course. Hopefully, once I gain more confidence in programming I will be able to implement more sofisticated changes which will make the website more interactive and stylish.  
 
 [Visit the website here](https://agyluczak.github.io/GIANDS-the-building-company/)
 
