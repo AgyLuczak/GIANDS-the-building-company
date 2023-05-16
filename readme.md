@@ -103,7 +103,7 @@ I chose two background colours for the sections across the whole webiste: light 
 
 </br>
 
-## **Features**
+### **Features**
 
 </br>
 
@@ -130,7 +130,7 @@ I chose two background colours for the sections across the whole webiste: light 
 - **The background image** is the same throughout the whole website. It's a white brickwall which associates with the construction business. The white colour makes the rest of the content clearly visible. I used consistent background colours for the sections (light grey and light purple) to match the colours of the logo, navbar and the footer. I made the backround images slightly transparent so that the background image is still visible.
 </br>
 
-## **Features I'd like to incorporate in the future**
+### **Features I'd like to incorporate in the future**
 
 </br>
 
@@ -547,8 +547,6 @@ If you want to download a local version of the repository, you can clone it.
 
 **Code**
 
-</br>
-
 - [MDB bootstrap](https://mdbootstrap.com/)
     - I used their code for the footer with social links and adapted it
 
@@ -574,7 +572,6 @@ If you want to download a local version of the repository, you can clone it.
  
 **Content**
 
-</br>
 
 [Istock](https://www.istockphoto.com/)
     - Source of the background image
