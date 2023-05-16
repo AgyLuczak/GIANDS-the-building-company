@@ -5,8 +5,9 @@
 
 ## **Introduction**
 
+</br>
 
-This is my first milestone project and the first website I've ever designed. I decided to create a website for my husband's building  company as it made the project realistic, practical and useful. This project is a functional static-website, built mainly with HTML and CSS. In the future I'd like to revisit the project and implement other languages and technologies that will be covered in the next modules of the course. I'd also like to add a real time-snap video on a home page , (instead of a youtube video as a placeholder), and add more photos to the gallery.  
+This is my first milestone project and the first website I've ever designed. As I started the course as a complete beginner in coding this project was a massive challenge and a big learning curve for me. I decided to create a website for my husband's building  company as it made the project realistic, practical and useful. This project is a functional static-website, built mainly with HTML and CSS. In the future I'd like to revisit the project and implement other languages and technologies that will be covered in the next modules of the course. Hopefully, once I gain more confidence in programming I will be able to implement more sofisticated changes which will make the website more interactive and stylish.  
 
 [Visit the website here](https://agyluczak.github.io/GIANDS-the-building-company/)
 
@@ -29,7 +30,6 @@ This is my first milestone project and the first website I've ever designed. I d
 
 </br>
 
-
 **User stories:**
 
 1. As a first-time visitor, I want to easily understand the purpose of the website.
@@ -43,8 +43,8 @@ This is my first milestone project and the first website I've ever designed. I d
 
 </br>
 
-
 ## **Scope Plane**
+
 </br>
 
 In order to achieve the strategy goals, the following features will be included on the website:
@@ -60,7 +60,6 @@ In order to achieve the strategy goals, the following features will be included 
 - Clear text and images which will be responsive on different devices
 
 </br>
-
 
 ## **Structure Plane** 
 
@@ -90,8 +89,8 @@ The website looks slightly different from what I initially had in mind when crea
 
 </br>
 
-
 ## **Surface Plane**
+
 </br>
 
 I used Google fonts: 'Open-Sans' for headings and 'Lato' for paragraphs. It was one of combinations sugessted on this blog:
@@ -103,7 +102,6 @@ The background image is a photo of a white brickwall sourced from [istock photos
 I chose two background colours for the sections across the whole webiste: light grey and light purple. I wanted them to reflect the colours of the logo, and go well with the colour of the navbar and the the footer. The background colours are slighly transparent so that the background brickwall image can be seen, but they is enough opacity added to make the text content easy to read.
 
 </br>
-
 
 ## **Features**
 
@@ -132,7 +130,8 @@ I chose two background colours for the sections across the whole webiste: light 
 - The background image is the same throughout the whole website. It's a white brickwall which associates with the construction business. The white colour makes the rest of the content clearly visible. I used consistent background colours for the sections (light grey and light purple) to match the colours of the logo, navbar and the footer. I made the backround images slightly transparent so that the background image is still visible.
 </br>
 
-**Features I'd like to incorporate in the future**
+## **Features I'd like to incorporate in the future**
+
 </br>
 
  - I'd like to work on the carousel section and make it wider on larger screens. I had a lot of problems creating this feature, which I will describe in another section. Currently, it serves its purposes and takes the whole width on smaller screens.
@@ -148,9 +147,13 @@ I chose two background colours for the sections across the whole webiste: light 
  - I'd like to make the webiste more interactive once I understand how JavaScript works
 
  - I'd like to style the website more so it is more eye-catching. I feel it is too plain in its current form.
+
 </br>
+
  ## **Technologies Used**
+
 </br>
+
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
     - Used as the basic building block for the project and to structure the content.
 
@@ -207,11 +210,13 @@ I chose two background colours for the sections across the whole webiste: light 
 
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/#validate_by_input)
     - Used to validate all CSS code written and used in this webpage.
+
 </br>
 
 ## **Testing**
 
  ### User Stories
+ 
  </br>
 
 1. **As a first-time visitor, I want to easily understand the purpose of the website.**
@@ -308,9 +313,10 @@ I chose two background colours for the sections across the whole webiste: light 
 </br>
 
 ### Further Testing
+
 </br>
 
-- The website was tested on the following browsers:
+**The website was tested on the following browsers:**
 
 | BROWSER  | RESULT  |
 |---|---|
@@ -318,11 +324,13 @@ I chose two background colours for the sections across the whole webiste: light 
 | Microsoft Edge  | Success |
 | Opera  | Success |
 |  Mozilla Firefox | Success |
-</br>
----
+
 </br>
 
-I used Chrome Developer tools to simulate the following devices:
+
+</br>
+
+**I used Chrome Developer tools to simulate the following devices:**
 - iphone SE
 - iphone XR
 - iphone 12 Pro
@@ -340,7 +348,9 @@ I used Chrome Developer tools to simulate the following devices:
 The website was responsive on all these devices.
 
 </br>
----
+
+
+
 </br>
 
 ### **W3C Markup Validator and W3C CSS Validator.**
@@ -373,7 +383,7 @@ I validated each page with W3C Markup Validator and W3C CSS Validator.
 
 ### **Lighthouse**
 
-I used Lighthouse for testing the website's performance.
+**I used Lighthouse for testing the website's performance.**
 Here are the initial results:
 
 </br>
@@ -485,6 +495,7 @@ I deployed this website by using GitPages and followed these steps:
 </br>
 
 **Forking the GitHub Repository**
+
 If you want to make changes to your repository without affecting it, you can make a copy of it by 'Forking' it.
 
 </br>
@@ -512,7 +523,13 @@ If you want to download a local version of the repository, you can clone it.
 
 </br>
 
+## **Credits** ##
+
+</br>
+
 **Code**
+
+</br>
 
 - [MDB bootstrap](https://mdbootstrap.com/)
  - I used their code for the footer with social links and adapted it
@@ -535,8 +552,11 @@ If you want to download a local version of the repository, you can clone it.
 
 - Rory Patrick Sheridan (my mentor) - using d-flex for the gallery, suggestions for improving website performance
 
+</br>
  
 **Content**
+
+</br>
 
 [Istock](https://www.istockphoto.com/)
     - Source of the background image
@@ -546,8 +566,11 @@ If you want to download a local version of the repository, you can clone it.
 
 - The photograps on the website were taken by my husband Gniewomir Zaworski
 
+</br>
 
  ## Acknowledgements
+
+ </br>
 
 I would like to thank my course mentor Rory Patrick Sheridan and my tutor Nigel Edwards for their help and support during the project. 
 
