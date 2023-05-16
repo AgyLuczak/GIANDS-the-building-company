@@ -432,7 +432,7 @@ I followed my mentor's tips and focused on how to improve the performance of the
 - ***Solution:*** added social-icons class in the links in html and targeted them with css 
 
 8. **The carousel covered the whole screen**
-- ***Solution:*** I put the carousel in a container and gave it size attributes. (Credit to Stackoverlow)
+- ***Solution:*** I put the carousel in a container and gave it size attributes. credit to Stackoverlow)
 
 9. **The carousel images were too stretched**
 
@@ -459,7 +459,52 @@ I followed my mentor's tips and focused on how to improve the performance of the
 14. **Couldn't remove the underlining or change the colour of the contact details on the contact page**
 - ***Solution:*** I added no-underline class to the link (which was making the contact details blue and underlined) and changed the colour in CSS (credit to Stackoverlow)
 
+</br>
 
+## Deployment
+
+I deployed this website by using GitPages and followed these steps:
+
+</br>
+
+**Deploying a GitHub Repoitory via GitHub Pages** 
+
+</br>
+
+1. Log in to GitHub
+2. In your Repository section, select repository you want to deploy
+3. In the menu located at the top of this section, click *settings*
+4. Select *Pages* on the left-hand menu.
+5. In the *Source* section select *deploy from a branch*
+6. In the *Branch* section select *main* and click *Save*
+7. Scroll down to the *Git Hub Pages* section and you will see the message 'Your site is ready to be published' followed by a link to the GitHub Page Web address.
+
+</br>
+
+**Forking the GitHub Repository**
+If you want to make changes to your repository without affecting it, you can make a copy of it by 'Forking' it.
+
+</br>
+
+1. Find the GitHub repository
+2. In the top right corner of the page, click the *Fork* button 
+3. You will now have a copy to work on
+
+</br>
+
+**Cloning the GitHub Repository**  
+
+If you want to download a local version of the repository, you can clone it.
+
+1. Find the GitHub repository
+2. Press the arrow on the *Code* button
+3. Copy the link that is shown in the drop-down
+4. Open Gitpod & select the directory location where you would like the clone created
+5. In the terminal type *git clone* and  paste the link you copied in GitHub
+6. Press enter and your local clone will be created.
+
+</br>
+---
 
 
 
