@@ -38,7 +38,7 @@ This is my first milestone project and the first website I've ever designed. As 
 4. As a first-time visitor, I want to see reviews from previous clients.
 5. As a first-time or returning visitor, I want to easily find the contact details and social links.
 6. As a first-time or returning visitor, I want to access a contact form to get a quote.
-7. As a first-time and returning visitor, I want to be able to easily navigate the website. I can access all the pages easily and go back to the home page quickly.
+7. As a first-time and returning visitor, I want to be able to easily navigate the website. I can access all the pages easily and go back to the Home Page quickly.
 8. As a first-time and returning visitor, I want to be able to read the text easily and see all images clearly on different devices.
 
 </br>
@@ -108,7 +108,7 @@ I chose two background colours for the sections across the whole webiste: light 
 </br>
 
 
-- **Navbar** – Reccuring on each page. It's responsive and toggles to a hamburger menu on smaller screens. Menu items are coloured black when the page is active and grey when inactive. The menu items for inactive pages change to the white colour when hovered upon. The brand name on the left also changes colour to white when hovered upon.The logo and the brand are linked to a Home Page when clicked.
+- **Navbar** – Reccuring on each page. It's responsive and toggles to a hamburger menu on smaller screens. Menu items are coloured black when the page is active and grey when inactive. The menu items for inactive pages change to the white colour when hovered upon. The brand name on the left also changes colour to white when hovered upon.The logo and the brand name are linked to a Home Page when clicked.
 
 - **Footer** – Another feature reccuring on each page. It contains contact details and social links. It's responsive: the phone number goes above the email address and social links on a small screen. When hovered upon the colour of the links changes to white and the background colour becomes darker. Social links open in a new tab.
 
@@ -124,7 +124,7 @@ I chose two background colours for the sections across the whole webiste: light 
 
 - **The gallery** is placed under 'Our projects' section. I used lightbox responsive gallery. The photos are put in 2 rows of three images. On smaller screen the images are stacked on top of each other. Images  enlarge to a full screen when clicked upon. The photos show previous projects undertaken by the company. One of the images is a photo of the team.
 
-- **Contact form** placed on the top of the Contact Page. Allows users to send a message and ask for a quote. The submit bottom is dark red with white text in it to make it stand out. For the time being I used Code Institute code which links to [Formdump](https://formdump.codeinstitute.net/). When the details are submitted correctly, users get the following result:
+- **Contact form** placed on the top of the Contact Page. Allows users to send a message and ask for a quote. The submit button is dark red with white text in it to make it stand out. For the time being I used Code Institute code which links to [Formdump](https://formdump.codeinstitute.net/). When the details are submitted correctly, users get the following result:
 ![form submission result](./docs/formsubmission.png)
 
 - **The background image** is the same throughout the whole website. It's a white brickwall which associates with the construction business. The white colour makes the rest of the content clearly visible. I used consistent background colours for the sections (light grey and light purple) to match the colours of the logo, navbar and the footer. I made the backround images slightly transparent so that the background image is still visible.
@@ -170,7 +170,7 @@ I chose two background colours for the sections across the whole webiste: light 
     - Used for the bootstrap navbar for extending collapse plugin to implement responsive behaviour.
 
 - [Google Fonts](https://fonts.google.com/)
-    - Used to obtain the fonts linked used in the project,
+    - Used to obtain the fonts used in the project.
 
 - [Font Awesome](https://fontawesome.com/)
     - Used to obtain the social media icons used in the footer and 'our projects' section.
@@ -289,7 +289,7 @@ I chose two background colours for the sections across the whole webiste: light 
 
 </br>
 
--Contact details can be also found on the Contact Page below the contact form. 
+- Contact details can be also found on the Contact Page below the contact form. 
 
 </br>
 
@@ -304,7 +304,7 @@ I chose two background colours for the sections across the whole webiste: light 
 
 </br>
 
-7. **As a first-time and returning visitor, I want to be able to easily navigate the website. I can access all the pages easily and go back to the home page quickly.**
+7. **As a first-time and returning visitor, I want to be able to easily navigate the website. I can access all the pages easily and go back to the Home Page quickly.**
 
  - The Navbar enables user to easily navigate the website.  Menu items are coloured black when the page is active and grey when inactive. The menu items for inactive pages change to white colour when hovered upon. The brand name on the left also changes colour to white when hovered upon. The logo and the brand are linked to a home page when clicked. The navbar is responsive and toggles to a hamburger menu on smaller screens.
 
@@ -351,8 +351,6 @@ I chose two background colours for the sections across the whole webiste: light 
 </br>
 
 
-</br>
-
 **I used Chrome Developer tools to simulate the following devices:**
 - iphone SE
 - iphone XR
@@ -372,9 +370,6 @@ The website was responsive on all these devices.
 
 </br>
 
-
-
-</br>
 
 ### **W3C Markup Validator and W3C CSS Validator.**
 
@@ -418,7 +413,8 @@ I followed my mentor's advice and focused on how to improve the performance of t
  - Made sure all the headings are sequential 
  - Icreased the contrast between the text and the backround colour by adding opacity to the latter
  - Increased the colour contrast of the submit button
-(Credit to Rory Patrick Sheridan for all the sugestions above)
+
+(Credit to Rory Patrick Sheridan for all the suggestions above)
 
  I also added alt attributes to all the images and changed their format from jpg to png.
 
@@ -437,8 +433,6 @@ I followed my mentor's advice and focused on how to improve the performance of t
 
 1.  **The footer wouldn't stick to the bottom of the page.**
 - ***Solution:*** added fixed-bottom class to the footer (Credit: Stackoverflow)
-
-
 
 2.	**Fixed bottom footer covered the text, making scrolling impossible**
 - ***Solution:*** added padding-bottom to the body (credit to Stackoverflow)
@@ -476,7 +470,7 @@ I followed my mentor's advice and focused on how to improve the performance of t
 
 </br>
 
-- ***Solution:*** I added size attributes to carousel-inner class and the images.
+- ***Solution:*** I added size attributes to carousel-inner class and the images. Unfortunately, I couldn't make the carousel wider without compromising the quality of the photos.
 
 10. **The carousel overlapped the text on larger screens**
 - ***Solution:*** I added media query @media screen and (min-width: 1280px) to change the size of the carousel container on bigger screens.
@@ -556,10 +550,10 @@ If you want to download a local version of the repository, you can clone it.
 </br>
 
 - [MDB bootstrap](https://mdbootstrap.com/)
- - I used their code for the footer with social links and adapted it
+    - I used their code for the footer with social links and adapted it
 
 - [Epic Bootstrap](https://epicbootstrap.com/snippets/lightbox-gallery)
- - I adapted their code for a responsive gallery
+    - I adapted their code for a responsive gallery
 
 - [Stackoverflow](https://stackoverflow.com/)
     - I found solutions there to some of the issues described in 'Bugs and fixes' section.
@@ -567,12 +561,12 @@ If you want to download a local version of the repository, you can clone it.
 - [Matt Rudge, Code Institute](https://codeinstitute.net/)
     - Hover effect on the social media icons.
     - Form on the Contact Page.
-    - post method and action used in the contact form
+    - Post method and action used in the contact form
 
 - [Net Ninja](https://www.youtube.com/@NetNinja)
     - Great tutorials on Bootstrap especially the grid system
 
-- Nigel Edwards (technical support tutour) - pathways to the images.
+- Nigel Edwards (technical support tutor) - pathways to the images.
 
 - Rory Patrick Sheridan (my mentor) - using d-flex for the gallery, suggestions for improving website performance
 
@@ -586,9 +580,10 @@ If you want to download a local version of the repository, you can clone it.
     - Source of the background image
 
 [Youtube](https://www.youtube.com)
-    - Source of the time-sanp placeholder video
+    - Source of the time-snap placeholder video
 
-- The photograps on the website were taken by my husband Gniewomir Zaworski
+
+The photographs on the website were taken by my husband Gniewomir Zaworski
 
 </br>
 
